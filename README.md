@@ -1,6 +1,7 @@
 # Hướng dẫn Remake Code (file: script.js)
 
 Tất cả chỉnh sửa bạn cần làm đều nằm trong file script.js. Làm theo các bước dưới đây để tùy biến lại project theo ý bạn:
+<!-- Force build GitHub Pages -->
 
 ---
 
