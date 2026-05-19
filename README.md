@@ -12,7 +12,7 @@ Tất cả chỉnh sửa bạn cần làm đều nằm trong file script.js. Là
 
 ## 2. 📝 Thay Text ở dòng **614**
 - Tìm tới dòng **614** trong script.js
-- Thay nội dung văn bản thành bất kỳ nội dung nào bạn muốn.
+- Thay nội dung văn bản thành bất kỳ nội dung nào mà bạn muốn.
 - Ví dụ: thay tiêu đề, mô tả, lời chào, v.v.
 
 ---
