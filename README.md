@@ -7,7 +7,7 @@ Tất cả chỉnh sửa bạn cần làm đều nằm trong file script.js. Là
 
 ## 1. 🖼️ Thêm Ảnh ở dòng **90**
 - Tới dòng **90** trong script.js
-- thêm đường dẫn tương ứng số ảnh ở folder images
+- thêm đường dẫn tương ứng với số ảnh ở folder images
 ---
 
 ## 2. 📝 Thay Text ở dòng **614**
